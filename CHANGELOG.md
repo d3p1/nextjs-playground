@@ -1,3 +1,12 @@
+# [1.2.0](https://github.com/d3p1/nextjs-playground/compare/v1.1.0...v1.2.0) (2025-11-11)
+
+
+### Features
+
+* add error pages [[#1](https://github.com/d3p1/nextjs-playground/issues/1)] ([01e53f5](https://github.com/d3p1/nextjs-playground/commit/01e53f5df123d4578061190136f37fbe097d741f))
+* remove unneeded static assets [[#1](https://github.com/d3p1/nextjs-playground/issues/1)] ([c593243](https://github.com/d3p1/nextjs-playground/commit/c593243b93ed221408250598fb8704752ff5f47d))
+* testing in memory data for server actions [[#1](https://github.com/d3p1/nextjs-playground/issues/1)] ([c4a1179](https://github.com/d3p1/nextjs-playground/commit/c4a11799408c6caf8aa27452d9e583598c869489))
+
 # [1.1.0](https://github.com/d3p1/nextjs-playground/compare/v1.0.0...v1.1.0) (2025-11-10)
 
 
