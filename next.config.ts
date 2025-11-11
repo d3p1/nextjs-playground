@@ -1,8 +1,8 @@
-import type { NextConfig } from "next";
+import type {NextConfig} from 'next'
 
 const nextConfig: NextConfig = {
-  output: 'export',
-  basePath: '/nextjs-playground'
-};
+  output: 'standalone',
+  basePath: '/nextjs-playground',
+}
 
-export default nextConfig;
+export default nextConfig
