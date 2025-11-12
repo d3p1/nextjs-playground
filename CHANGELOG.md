@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/d3p1/nextjs-playground/compare/v1.2.0...v1.3.0) (2025-11-12)
+
+
+### Features
+
+* improve like counter server action [[#1](https://github.com/d3p1/nextjs-playground/issues/1)] ([f1ac4e7](https://github.com/d3p1/nextjs-playground/commit/f1ac4e74664c185249ad24ec6b944cfe6463fd43))
+
 # [1.2.0](https://github.com/d3p1/nextjs-playground/compare/v1.1.0...v1.2.0) (2025-11-11)
 
 
