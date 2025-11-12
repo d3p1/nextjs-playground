@@ -6,5 +6,5 @@
 
 let likeCounter = 0
 export const incrementLikes = async () => {
-  return likeCounter++
+  return ++likeCounter
 }
